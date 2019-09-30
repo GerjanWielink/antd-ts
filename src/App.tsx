@@ -1,7 +1,7 @@
 import React from 'react';
-
+import Layout from 'wrappers/Layout';
 
 const App: React.FC = () =>
-    <h1> AntD-ts</h1>;
+    <Layout> Content </Layout>;
 
 export default App;
